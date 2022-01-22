@@ -4,16 +4,16 @@
 
 <p>
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;Glad to see you here!" /></a>
-</p>
-
-   <!-- <a href="https://www.linkedin.com/infir1/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>    -->
-  
+</p>  
 
 - 👋 Hi, I’m Firdavs.
 - 💼 I'm a Senior Software Engineer at Fortu Wealth (https://fortu.co.uk)
 - 💬 Talk to me about fintech.
+  
+</br>
+   <a href="https://www.linkedin.com/in/firdavs-kasymov/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>   
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
