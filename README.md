@@ -9,6 +9,7 @@
 - 👋 Hi, I’m Firdavs.
 - 💼 I'm a Senior Software Engineer at Fortu Wealth (https://fortu.co.uk)
 - 💬 Talk to me about fintech.
+- My personal website https://kasymov.info
   
 </br>
    <a href="https://www.linkedin.com/in/firdavs-kasymov/" target="_blank">
