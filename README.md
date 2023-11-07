@@ -39,8 +39,8 @@
     <img alt="TypeScript" src="https://img.shields.io/badge/typescript-ED8B00?style=for-the-badge&logo=typescript&logoColor=white">
   </a>
 
-     <a href="https://nodejs.org" target="_blank">
-    <img alt="NodeJs" src="https://img.shields.io/badge/node-ED8B00?style=for-the-badge&logo=node.js&logoColor=white">
+   <a href="https://nodejs.org" target="_blank">
+    <img alt="NodeJs" src="https://img.shields.io/badge/node-ED8B00?style=for-the-badge&logo=node.js&logoColor=white"">
   </a>
   
    <a href="https://www.postgresql.org/" target="_blank">
