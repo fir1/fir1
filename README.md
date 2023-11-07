@@ -7,8 +7,7 @@
 </p>  
 
 - 👋 Hi, I’m Firdavs.
-- 💼 I'm a Senior Software Engineer at Fortu Wealth (https://fortu.co.uk)
-- 💬 Talk to me about fintech.
+- 💬 Talk to me about fintech and tech developments.
 - My personal website https://kasymov.info
   
 </br>
@@ -59,14 +58,6 @@
     <img alt="Redis" src="https://img.shields.io/badge/redis-27338e?style=for-the-badge&logo=redis&logoColor=white">
   </a>
  
-
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/fir1"><img alt="Aastha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=fir1&custom_title=Firdavs's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-</details>
 
 <br/>
 
